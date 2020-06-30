@@ -11,10 +11,10 @@ services:
     and we will publish it in an instant.
   heading: Blogging Platform
   icon: "/uploads/2020/06/30/blog.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: All Roadhouse sites are mobile friendly and work fluidly on any form
+    factor.
+  heading: Mobile Friendly
+  icon: "/uploads/2020/06/30/62957-smartphone-icons-mobile-wikimedia-app-commons-file_mobile.png"
 sub_heading: Roadhouse creates engaging and mobile friendly websites for your business.
 textline: A home page designed to capture attention.
 hero_button:
