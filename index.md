@@ -7,9 +7,9 @@ partners:
 - "/uploads/2020/06/30/hugo-logo-wide.svg"
 - "/uploads/2020/06/30/netlify.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: Roadhouse includes free blogging in every site. Just mail us your blog
+    and we will publish it in an instant.
+  heading: Blogging Platform
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
