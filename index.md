@@ -10,7 +10,7 @@ services:
 - description: Roadhouse includes free blogging in every site. Just mail us your blog
     and we will publish it in an instant.
   heading: Blogging Platform
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/uploads/2020/06/30/blog.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
