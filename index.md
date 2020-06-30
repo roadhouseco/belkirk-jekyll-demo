@@ -17,10 +17,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Roadhouse creates engaging and mobile friendly websites for your business.
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: A home page designed to capture attention.
 hero_button:
   text: Contact Us
   href: "/about"
