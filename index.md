@@ -28,3 +28,4 @@ menu:
     weight: 1
 
 ---
+Welcome to the Roadhouse Co. customer Demo Site. Feel free to explore this Business site demo and let us know of your needs.
